@@ -22,7 +22,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./preview.png "Desktop Demo")
+![Watch Desktop Demo](./preview.png "Desktop Demo")
 
 ### Prerequisites
 
